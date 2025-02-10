@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Trần Thành Danh 
 
-(not Tran Thanh Danh!!!! - If you are not Vietnamese or do not consider yourself Vietnamese, you may mispronounce words, but please write correctly. Show some respect for my nation's language, or there is nothing for us to talk about)!
-
 🚀 **Fresher Frontend Developer** passionate about modern web technologies  
 
 🌱 Currently learning **Next.js & Advanced React Patterns**  
