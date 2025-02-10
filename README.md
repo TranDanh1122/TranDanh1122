@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm Trần Thành Danh (not Tran Thanh Danh!!!! - If you are not Vietnamese or do not consider yourself Vietnamese, you may mispronounce words, but please write correctly. Show some respect for my nation's language)!
+# 👋 Hi there, I'm Trần Thành Danh 
+
+(not Tran Thanh Danh!!!! - If you are not Vietnamese or do not consider yourself Vietnamese, you may mispronounce words, but please write correctly. Show some respect for my nation's language)!
 
 🚀 **Fresher Frontend Developer** passionate about modern web technologies  
 
