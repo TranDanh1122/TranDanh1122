@@ -17,5 +17,15 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranDanh1122&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranDanh1122&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TranDanh1122&theme=dracula)
+
+
 ### 🌍 Connect with me  
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-%230A0A0A.svg?style=for-the-badge&logo=FrontendMentor&logoColor=white)](https://www.frontendmentor.io/profile/TranDanh1122)
