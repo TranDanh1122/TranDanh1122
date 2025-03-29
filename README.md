@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Trần Thành Danh 
 
-🚀 **Fresher Frontend Developer** passionate about modern web technologies  
+🚀 **Frontend Developer** passionate about modern web technologies  
 
 🌱 Currently learning **Next.js & Advanced React Patterns**  
 
